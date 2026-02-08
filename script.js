@@ -1,2 +1,4 @@
-console.log('hello');
-console.log('bye');
+for (let i = 0; i < 10; i++) {
+    console.log('hello');
+    console.log('bye');
+}
